@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtemRwcjBhNTlnaHM0ZnJpbnEzZThrMXdxbWxocDBrYThrejY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="200px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtemRwcjBhNTlnaHM0ZnJpbnEzZThrMXdxbWxocDBrYThrejY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" height="150px" />
   <h1 >Hi 👋, I'm Julian Marin</h1>
   <h3 >A passionate developer focused in Front-End</h3>
 </div>
