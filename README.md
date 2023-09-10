@@ -1,6 +1,8 @@
-<img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtemRwcjBhNTlnaHM0ZnJpbnEzZThrMXdxbWxocDBrYThrejY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-<h1 align="center">Hi 👋, I'm Julian Marin</h1>
-<h3 align="center">A passionate developer focused in Front-End</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtemRwcjBhNTlnaHM0ZnJpbnEzZThrMXdxbWxocDBrYThrejY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" height="200px" />
+  <h1 >Hi 👋, I'm Julian Marin</h1>
+  <h3 >A passionate developer focused in Front-End</h3>
+</div>
 
 - 🔭 I’m currently working on a university project to entertain **Entreteni2**
 - 🌱 I’m currently learning **ONE – Oracle Next Education**
