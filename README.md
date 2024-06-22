@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Talking about Personal stuffs:</h3>
+<h3 align="left">Talking about Personal Stuffs:</h3>
 
 ###
 
