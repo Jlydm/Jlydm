@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">- <img height="15" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"> I'm currently working on something amazing.<br>- <img height="15" src="https://media.tenor.com/mixYP-IWVzMAAAAi/monkey-monkeytype.gif"> I'm constantly improving my knowledge in leetcode.<br>- <img height="15" src="https://media.tenor.com/y29vJ0OqaQ4AAAAi/typing-texting.gif"> Talk to me or ask me about anything, I'm happy to collaborate.<br>- <img height="15" src="https://media.tenor.com/_U6jLPgtEqsAAAAi/dm4uz3-foekoe.gif"> Goasl: I would like to travel to Italy or get on a pirate ship.<br>- <img height="15" src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif"> How to reach me: juliancito8790@gmail.com<br>- <img height="15" src="https://media.tenor.com/yDHIJR0jxkkAAAAi/rowingat-rowing.gif"> Fun fact: I like reading, walking and raccoons.</p>
+<p align="left">- <img height="15" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"> I'm currently working on something amazing.<br>- <img height="15" src="https://media.tenor.com/mixYP-IWVzMAAAAi/monkey-monkeytype.gif"> I'm constantly improving my knowledge in leetcode.<br>- <img height="15" src="https://media.tenor.com/y29vJ0OqaQ4AAAAi/typing-texting.gif"> Talk to me or ask me about anything, I'm happy to collaborate.<br>- <img height="15" src="https://media.tenor.com/_U6jLPgtEqsAAAAi/dm4uz3-foekoe.gif"> Goals: I would like to travel to Italy or get on a pirate ship.<br>- <img height="15" src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif"> How to reach me: juliancito8790@gmail.com<br>- <img height="15" src="https://media.tenor.com/yDHIJR0jxkkAAAAi/rowingat-rowing.gif"> Fun fact: I like reading, walking and raccoons.</p>
 
 ###
 
