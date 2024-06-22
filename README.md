@@ -1,129 +1,118 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtemRwcjBhNTlnaHM0ZnJpbnEzZThrMXdxbWxocDBrYThrejY2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" height="150px" />
-  <h1 >Hi 👋, I'm Julian Marin</h1>
-  <h3 >A passionate developer focused in Front-End</h3>
-</div>
+<br clear="both">
 
-<h1 align="center">Hi 👋, I'm Julian Marin</h1>
-<h3 align="center">A passionate developer</h3>
-- 🔭 I’m currently working on a personal project → [Task Tracker](https://github.com/Jlydm/Task-Tracker)
-- 🌱 I’m currently learning **React, PostgreSQL and NodeJS**
-
-- 📫 How to reach me **juliancito8790@gmail.com**
-- ⚡ Fun fact **I like the pixel games and the pixel art, like Moonlighter and Blasphemous**
-
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/julian-yecid-marin-oyuela/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Jlydm" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/julxxn_marxn" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:juliancito8790@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/julian-yecid-marin-oyuela/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julian-yecid-marin-oyuela/" height="30" width="40" /></a><a href="https://instagram.com/julxxn_marxn" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="julxxn_marxn" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mariadb-icon.svg" alt="Mariadb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jlydm&layout=compact&theme=dark" alt=Jlydm />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jlydm&theme=" alt="Jlydm" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/Jlydm">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jlydm&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jlydm&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jlydm&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jlydm&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jlydm&theme=2077" height="180em" />
-</div>
-
-<h2 align="center">Hi 👋! I am **Julian Marin**</h2>
-
-###
-
-<p align="left">- 🔭 I’m currently working on a personal project, **Task Tracker** this is the link (https://github.com/Jlydm/Task-Tracker) <br>- 🌱 I’m currently learning **React, PostgreSQL and NodeJS**<br>- 📫 How to reach me **juliancito8790@gmail.com**<br>- ⚡ Fun fact **I like the pixel games and the pixel art, like Moonlighter and Blasphemous**</p>
-
-###
-
-<img align="right" height="250" src="https://i.pinimg.com/originals/69/6a/95/696a95ed3008400c6168cab7379b2528.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/julian-yecid-marin-oyuela/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="juliancito8790@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/julxxn_marxn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Jlydm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jlydm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">> Hey  there, I'm Julian <img height="35" src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif"></a></h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=heroku" height="50" alt="heroku logo"  />
-  <img width="9" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
-  <img width="9" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <a href="https://www.linkedin.com/in/jymarin/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+  <a href=""><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  /></a>
+  <a href="https://www.instagram.com/julxxn_marxn/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jlydm/Jlydm/output/snake.svg" alt="Snake animation" />
+<h3 align="left">Glad to see you here!</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">I am a software engineer and a passionate developer. I love programming, reading, talking and exercising.<br><br>As a developer, I love learning and implementing new technologies, I enjoy carrying out projects that test my skills and knowledge. That's why I always try to do things that make a difference.</p>
+
+###
+
+<img align="right" height="250" src="https://i.pinimg.com/originals/0d/47/7a/0d477af1f175ae1f80932717f9140f4d.gif"  />
+
+###
+
+<h3 align="left">Talking about Personal stuffs:</h3>
+
+###
+
+<p align="left">- <img height="15" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif"> I'm currently working on something amazing.<br>- <img height="15" src="https://media.tenor.com/mixYP-IWVzMAAAAi/monkey-monkeytype.gif"> I'm constantly improving my knowledge in leetcode.<br>- <img height="15" src="https://media.tenor.com/y29vJ0OqaQ4AAAAi/typing-texting.gif"> Talk to me or ask me about anything, I'm happy to collaborate.<br>- <img height="15" src="https://media.tenor.com/_U6jLPgtEqsAAAAi/dm4uz3-foekoe.gif"> Goasl: I would like to travel to Italy or get on a pirate ship.<br>- <img height="15" src="https://media.tenor.com/YyvztaMcEiMAAAAi/message-notification.gif"> How to reach me: juliancito8790@gmail.com<br>- <img height="15" src="https://media.tenor.com/yDHIJR0jxkkAAAAi/rowingat-rowing.gif"> Fun fact: I like reading, walking and raccoons.</p>
+
+###
+
+<br clear="both">
+
+<br clear="both">
+
+<p align="right">Gif  design by <a href="https://co.pinterest.com/nguyendinhmanhai/">SEAL</a> on <a href="pinterest.com">Pinterest</a>.</p>
+
+###
+
+<h2 align="center">💡 A Quote:</h2>
+
+###
+
+<br clear="both">
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=The+function+of+good+software+is+to+make+the+complex+appear+to+be+simple.&author=Grady+Booch)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">💻 My Tech Stack:</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=heroku" height="45" alt="heroku logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="45" alt="npm logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">🏆 My Stats:</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jlydm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jlydm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
